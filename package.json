@@ -1,0 +1,11 @@
+{
+  "name": "moment-demo",
+  "version": "1.0.0",
+  "description": "use moment.js to show moment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yujuan",
+  "license": "ISC"
+}
